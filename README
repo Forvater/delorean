@@ -1,1 +1,7 @@
-temp
+# H1 Usage
+
+chmod +x delorean.py
+
+sudo ./delorean.py 5 - set time back for 5 months
+sudo ./delorean.py 0 - return time back to actual
+
